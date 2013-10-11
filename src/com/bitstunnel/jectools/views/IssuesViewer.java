@@ -53,7 +53,6 @@ public class IssuesViewer extends ViewPart {
 
 	/**
 	 * The ID of the view as specified by the extension.
-	 * Add by John Mai 2013/10/10
 	 */
 	public static final String ID = "com.bitstunnel.jectools.views.IssuesViewer";
 
