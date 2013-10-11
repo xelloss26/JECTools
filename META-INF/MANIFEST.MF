@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JECTools
+Bundle-SymbolicName: JECTools;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.bitstunnel.jectools.activator.Activator
+Bundle-Vendor: com.bitstunel
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: libs/mysql-connector-java-5.1.26-bin.jar,
+ .
